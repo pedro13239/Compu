@@ -1,0 +1,17 @@
+body { Color:black; background-color:#A2D9CE}
+
+Header{text-shadow:gray 10px 10px 20px; text-align:center;} img{width: 90%;}
+
+nav{font-size: 30px; text-shadow: gray 3px 3px 10px;}
+
+h2{Color:#2E86C1; font-size:30px; font-family:Courier;}
+
+h3{Color:blue; font-size:20px;}
+
+p {color:#424949; font-size:20px; text-align:center;}
+
+section{width:75%;}
+
+footer{background:; color:#9B59B6; font-size:23px; box-shadow: #9B59B6 5px 5px 10px; text-align: center;}
+
+aside{position:fixed; width:25%; top:350px; Bottom:0; right:0; left:75%;}
