@@ -6,7 +6,11 @@ nav{font-size: 30px; text-shadow: text-align:center; gray 3px 3px 10px;}
 
 h2{Color:#2E86C1; font-size:30px; font-family:Courier;}
 
-h3{Color:blue; font-size:20px;}
+h3{Color:blue; text-align:justify; font-size:20px;}
+
+a{
+  text-align:justify;
+}
 
 p {color:#424949; font-size:20px; text-align:center;}
 
