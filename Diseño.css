@@ -1,15 +1,15 @@
-body {Color:white; Background-color: #00795C; }
-Header{ text-shadow:gray 10px 10px 20px; text-align: center; }
-a {text-shadow:#07693A 3px 3px 8px; font-size: 20px;  text-decoration:none; background:#3BA7E1;
-color:White; padding:10px 20px; margin: 10px 10px; box-shadow: 1px 8px 2px #005A45;}
+body {Color:white; Background-color: #A4FF0F; }
+header{ text-shadow:gray 10px 10px 20px; text-align: center; }
+a {text-shadow:blue 3px 3px 8px; font-size: 20px;  text-decoration:none; background:#3BA7E1; 
+color:White; padding:10px 20px; margin: 10px 10px; box-shadow: 1px 8px 2px navy;}
 img {width:50%; border-radius:50% }
 nav {font-size: 30px; text-shadow: gray 3px 3px 10px; }
-h1 {Color:#1EF0BD; font-size:50px; font-family: broadway; text-shadow:gray 10px 10px 20px; text-transform: uppercase; }
-h2 {Color:#26D8AD; font-size:30px; font-family:Impact; }
-h3 {Color:#25C49E; font-size:20px; font.family: broadway; }
-h4 {Color:#20B08D; font-size: 35px; font-family: broadway; }
+h1 {Color:blue; font-size:50px; font-family: broadway; text-shadow:gray 10px 10px 20px; text-transform: uppercase; }
+h2 {Color:#2302F7; font-size:30px; font-family:Impact; }
+h3 {Color:blue; font-size:20px; font-family: broadway; } 
+h4 {Color:blue; font-size: 35px; font-family: broadway; }
 p{Color:black; font-size:20px; text-align:center; }
 th {Color: black;}
-footer {background:#20B0AE; color:#00F5F2; font-size:25px;
+footer {background:#43C42C; color:yellow; font-size:25px;
 box-shadow: yellow 5px 5px 10px; text-align: center;}
 aside {position:fixed; width:25%; top:350px; bottom:0; right:0; left:75%; }
