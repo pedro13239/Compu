@@ -1,10 +1,10 @@
 body {Color:white; Background-color: #A4FF0F; }
 header{ text-shadow:gray 10px 10px 20px; text-align: center; }
-a {text-shadow:blue 3px 3px 8px; font-size: 20px; text-align: justify; text-decoration:none; background:#3BA7E1; 
+a {text-shadow:blue 3px 3px 8px; font-size: 20px; text-align: center; text-decoration:none; background:#3BA7E1; 
 color:White; padding:10px 20px; margin: 10px 10px; box-shadow: 1px 8px 2px navy;}
 img {width:50%; border-radius:50% }
 nav {font-size: 30px; text-shadow: text-align: center; gray 3px 3px 10px; }
-h1 {Color:blue; font-size:50px; font-family: broadway; text-shadow:gray 10px 10px 20px; text-transform: uppercase; }
+h1 {Color:blue; font-size:50px; font-family: broadway; text-align: center; text-shadow:gray 10px 10px 20px; text-transform: uppercase; }
 h2 {Color:#2302F7; font-size:30px; font-family:Impact; }
 h3 {Color:blue; font-size:20px; text-align: center; font-family: broadway; } 
 h4 {Color:blue; font-size: 35px; font-family: broadway; }
